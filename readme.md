@@ -6,3 +6,11 @@ git config --global user.email "sohaibhassan@gmail.com"
 git  ---  show all the list of commands 
 
 #created 
+
+
+# git commit -an "comment"
+both add and commit together 
+git push -u origin master
+
+mean you can use it one time then only use command 
+git push 
